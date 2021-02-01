@@ -4,4 +4,4 @@ def nthLetter(x, y):
     else:
         return False
 
-print (nthLetter("dog", 4))
+print (nthLetter("qwertyuiop", 5))
